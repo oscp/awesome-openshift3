@@ -1,4 +1,4 @@
-Awesome-OpenShift3
+Awesome OpenShift3
 =======================================================================
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -15,6 +15,8 @@ Menu
 * [Useful Articles](#useful-articles)
 * [Infrastructure](#infrastructure)
 * [Developer Tools](#developer-tools)
+* [Contributing](#contributing)
+* [License](#license)
 
 Other Useful Awesome Lists
 =======================================================================
@@ -38,3 +40,19 @@ Developer Tools
 =======================================================================
 
 * [libmapuid](https://github.com/appuio/libmapuid) -  Shared library mapping random OpenShift 3 container UIDs to well-known UID 
+
+Contributing
+=======================================================================
+
+Contributions are most welcome!
+
+This list is just getting started, please contribute to make it even more awesome.
+
+Check out the [Contributing Guidelines](CONTRIBUTING.md).
+
+License
+=======================================================================
+
+[![Creative Commons Attribution License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](http://creativecommons.org/licenses/by/4.0)
+
+This awesome list is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
