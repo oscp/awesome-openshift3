@@ -36,6 +36,11 @@ Infrastructure
 * [APPUiO Pruner](https://github.com/appuio/appuio-pruner) - Docker container pruning old builds, deployments and registry images from an OpenShift cluster.
 * [Gluster Recycler](https://github.com/appuio/gluster-recycler) - Docker container recycling freed Gluster persistence volumes.
 
+Monitoring
+=======================================================================
+
+* [openshift-monitoring](https://github.com/oscp/openshift-monitoring) - A realtime distributed monitoring tool for OpenShift Enterprise by [@SchweizerischeBundesbahnen](https://github.com/SchweizerischeBundesbahnen).
+
 Developer Tools
 =======================================================================
 
