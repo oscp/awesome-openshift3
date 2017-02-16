@@ -11,19 +11,12 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 Menu
 =======================================================================
 
-* [Other Useful Awesome Lists](#awesome-lists)
 * [Useful Articles](#useful-articles)
 * [Infrastructure](#infrastructure)
 * [Developer Tools](#developer-tools)
+* [Other Useful Awesome Lists](#awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
-
-Other Useful Awesome Lists
-=======================================================================
-
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
-* [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 
 Useful Articles
 =======================================================================
@@ -45,6 +38,13 @@ Developer Tools
 =======================================================================
 
 * [libmapuid](https://github.com/appuio/libmapuid) -  Shared library mapping random OpenShift 3 container UIDs to well-known UID 
+
+Other Useful Awesome Lists
+=======================================================================
+
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+* [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 
 Contributing
 =======================================================================
