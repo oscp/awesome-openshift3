@@ -38,6 +38,7 @@ Developer Tools
 =======================================================================
 
 * [libmapuid](https://github.com/appuio/libmapuid) -  Shared library mapping random OpenShift 3 container UIDs to well-known UID 
+* [liquidprompt](https://github.com/dtschan/liquidprompt) - Display the current Kubernetes/OpenShift 3 context in your prompt
 
 Other Useful Awesome Lists
 =======================================================================
