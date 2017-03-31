@@ -21,6 +21,8 @@ Menu
 Useful Articles
 =======================================================================
 
+* [OpenShift Container Platform Reference Architecture Implementation Guides](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
+* [Environment-Dependent Property Management Strategies for OpenShift Pipelines](https://blog.openshift.com/environment-dependent-property-management-strategies-openshift-pipelines/)
 * [Building Your Own Monitoring Solution – A Look at openshift-tools](https://blog.openshift.com/build-monitoring-solution-look-openshift-tools/)
 
 Infrastructure
@@ -37,7 +39,7 @@ Monitoring
 Developer Tools
 =======================================================================
 
-* [libmapuid](https://github.com/appuio/libmapuid) -  Shared library mapping random OpenShift 3 container UIDs to well-known UID 
+* [libmapuid](https://github.com/appuio/libmapuid) -  Shared library mapping random OpenShift 3 container UIDs to well-known UID
 * [liquidprompt](https://github.com/dtschan/liquidprompt) - Display the current Kubernetes/OpenShift 3 context in your prompt
 
 Other Useful Awesome Lists
