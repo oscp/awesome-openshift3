@@ -25,6 +25,20 @@ Useful Articles
 * [Environment-Dependent Property Management Strategies for OpenShift Pipelines](https://blog.openshift.com/environment-dependent-property-management-strategies-openshift-pipelines/)
 * [Building Your Own Monitoring Solution – A Look at openshift-tools](https://blog.openshift.com/build-monitoring-solution-look-openshift-tools/)
 
+Reference Architectures
+=======================================================================
+
+* [OpenShift Container Platform 3 on Red Hat OpenStack Platform 8](https://access.redhat.com/articles/2743631)
+* [OpenShift Container Platform 3.4 on Amazon Web Services](https://access.redhat.com/articles/2623521)
+* [OpenShift Container Platform 3.5 on Amazon Web Services](https://access.redhat.com/articles/3018151)
+* [OpenShift Container Platform 3 on Google Cloud Platform ](https://access.redhat.com/articles/2751521)
+* [OpenShift Container Platform 3 on VMware vCenter 6](https://access.redhat.com/articles/2745171)
+* [Application Release Strategies with OpenShift v3](https://access.redhat.com/articles/2897391)
+* [Build and Deployment of Java Applications on OpenShift Container Platform 3](https://access.redhat.com/articles/3016691)
+* [Building JBoss EAP 7 Microservices on OpenShift Container Platform 3.4](https://access.redhat.com/articles/2407801)
+* [Building Polyglot Microservices on OpenShift Container Platform 3](https://access.redhat.com/articles/2893381)
+* [JBoss BPM Suite 6.3 on OpenShift Container Platform 3.3](https://access.redhat.com/articles/2893421)
+
 Infrastructure
 =======================================================================
 
