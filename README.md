@@ -12,9 +12,10 @@ Menu
 =======================================================================
 
 * [Useful Articles](#useful-articles)
+* [Reference Architectures](#reference-architectures)
 * [Infrastructure](#infrastructure)
 * [Developer Tools](#developer-tools)
-* [Other Useful Awesome Lists](#awesome-lists)
+* [Other Useful Awesome Lists](#other-useful-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
 
